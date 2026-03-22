@@ -1,0 +1,9 @@
+path: E:/code/GBS-YOLO/
+train: ./dataset/train/images
+val: ./dataset/val/images
+test: ./dataset/test/images
+
+nc: 6
+
+names: ['bottle', 'box', 'plastic-bag', 'package', 'can', 'foam']
+
